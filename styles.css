@@ -1,0 +1,34 @@
+label {
+    display: block;
+    margin-top: 1em;
+}
+
+*:disabled {
+    background-color: dimgrey;
+    color: linen;
+    opacity: 1;
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+
+.bred {
+    background-color: rgb(255, 116, 116);
+    color: black;
+}  
+
+.bblack
+{
+    background-color: black;
+    color: white;
+}  
+
+.hidden {
+    display: none;
+}
+
+.generator{
+    padding: 1em;
+}
